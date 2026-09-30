@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#081321"/><stop offset="1" stop-color="#10243a"/></linearGradient><filter id="blur"><feGaussianBlur stdDeviation="50"/></filter></defs>
+<rect width="1400" height="800" fill="url(#bg)"/><circle cx="1120" cy="120" r="180" fill="#7dd3fc" opacity=".10" filter="url(#blur)"/><circle cx="980" cy="680" r="190" fill="#a78bfa" opacity=".08" filter="url(#blur)"/>
+<g><path d="M700 100 L1120 220 L1030 680 L590 570 Z" fill="none" stroke="#7dd3fc" stroke-width="2"/><circle cx="860" cy="380" r="170" fill="none" stroke="#a78bfa" stroke-width="2"/><circle cx="860" cy="380" r="65" fill="rgba(125,211,252,.08)" stroke="white" stroke-width="1"/><path d="M650 380h420M860 170v420" stroke="white" opacity=".12"/></g>
+<text x="610" y="715" fill="white" opacity=".32" font-family="Arial" font-size="18" letter-spacing="5">SF GROUP</text>
+<text x="610" y="745" fill="white" opacity=".18" font-family="Arial" font-size="12" letter-spacing="3">DIGITAL ENGINEERING</text>
+</svg>
